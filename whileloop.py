@@ -10,3 +10,5 @@ while num_of_tries !=3:
         print('Error')
         num_of_tries = num_of_tries +1
         print('you have ' + str(3-num_of_tries) + ' lift')
+
+        
